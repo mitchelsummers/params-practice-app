@@ -1,0 +1,6 @@
+POST http://localhost:3000/say_hey.json
+Content-Type: application/json
+
+{
+  "input": "hey"
+}
